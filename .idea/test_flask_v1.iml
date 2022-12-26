@@ -6,5 +6,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="test_flask_v2" />
+    <orderEntry type="module" module-name="test_flask_v2-sir" />
+    <orderEntry type="module" module-name="my_HRConnect" />
+    <orderEntry type="module" module-name="my_Swapi" />
+    <orderEntry type="module" module-name="test_flask_v3" />
   </component>
 </module>

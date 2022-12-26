@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../my_HRConnect/.idea/my_HRConnect.iml" filepath="$PROJECT_DIR$/../my_HRConnect/.idea/my_HRConnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../my_Swapi/.idea/my_Swapi.iml" filepath="$PROJECT_DIR$/../my_Swapi/.idea/my_Swapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test_flask_v1.iml" filepath="$PROJECT_DIR$/.idea/test_flask_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_flask_v2/.idea/test_flask_v2.iml" filepath="$PROJECT_DIR$/../test_flask_v2/.idea/test_flask_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_flask_v2-sir/.idea/test_flask_v2-sir.iml" filepath="$PROJECT_DIR$/../test_flask_v2-sir/.idea/test_flask_v2-sir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_flask_v3/.idea/test_flask_v3.iml" filepath="$PROJECT_DIR$/../test_flask_v3/.idea/test_flask_v3.iml" />
     </modules>
   </component>
 </project>
